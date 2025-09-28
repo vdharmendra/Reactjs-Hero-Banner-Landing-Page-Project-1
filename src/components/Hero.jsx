@@ -12,8 +12,8 @@ const HeroSection = () => {
                     <p>Also Available On</p>
 
                     <div className="brand-icons">
-                        <img src="/img/amazon.png" alt="" />
-                        <img src="/img/brand_logo.png" alt="" />
+                        <img src="./img/amazon.png" alt="" />
+                        <img src="./img/brand_logo.png" alt="" />
                     </div>
                 </div>
             </div>
